@@ -14,6 +14,7 @@
 ### I use:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" />
 
-### Statistic.
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiving&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aivimg&show_icons=true&theme=github_dark)
+### Top Used Languages.
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiving&layout=donut&theme=gotham)
+### Github Statistics.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiving&show_icons=true&theme=gotham)
