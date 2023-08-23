@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋🏻</h1>
 <h2 align="center">I am Savchenko Ivan (aka Aiving), an inquisitive backend developer who sometimes writes websites or applications.</h1>
 
-### Main system: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" style="margin:-7.5px 5px;" /> 
-#### Second system: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" style="margin:-7.5px 5px;" /> 
+### Main system: Arch Linux (with Hyprland WM) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" style="margin:-7.5px 5px;" /> 
 
 ### My knowledge:
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" style="margin:-5px 5px;" /> JavaScript - Middle<br />
