@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻</h1>
-<h2 align="center">I am Savchenko Ivan (aka Aiving), an inquisitive backend developer who sometimes writes websites or applications.</h1>
+<h3 align="center">I am Savchenko Ivan (aka Aiving), an inquisitive backend developer who sometimes writes websites or applications.</h3>
 
 ### System: Arch Linux <img src="https://github.com/Aiving/Aiving/assets/73419411/6bf8e8ff-00a5-470e-8708-e0f34c242c17" height="18" />
 ### WM: Hyprland <img src="https://github.com/Aiving/Aiving/assets/73419411/3dbb660d-c03f-4e2f-a91a-24be31b6167a" height="18" />
